@@ -1,4 +1,4 @@
 public class dev2 {
     //author - Arkadiusz Mańczyk
-    String dev2 = "Arkadiusz Mańczyk";
+    String autorDev2 = "Arkadiusz Mańczyk";
 }
