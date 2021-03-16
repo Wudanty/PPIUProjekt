@@ -1,3 +1,3 @@
 public class dev1 {
-    String autor = "Tomasz Dubiel";
+    static String autor = "Tomasz Dubiel";
 }
