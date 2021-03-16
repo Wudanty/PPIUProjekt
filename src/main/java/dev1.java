@@ -1,3 +1,3 @@
 public class dev1 {
-    // autor - Tomasz Dubiel
+    String autor = "Tomasz Dubiel";
 }
